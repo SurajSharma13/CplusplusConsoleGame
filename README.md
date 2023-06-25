@@ -1,6 +1,8 @@
 # CplusplusConsoleGame
 This is a simple console game in c++ inspired by pacman.
+
 For the best experience have your terminal in full screen.
+
 This game uses threads, compile using -pthread 
 
 how to compile:
